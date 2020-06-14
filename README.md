@@ -6,7 +6,7 @@ Usage:
 
 **[1] OPEN CMD as ADMINISTRATOR:**
 
-->Key: [WINDOWS] + [R]
+->Key: [WINDOWS] + [R] -> Write "cmd" + [ENTER]
 
 ->powershell "Start-Process cmd -Verb RunAs"
 
