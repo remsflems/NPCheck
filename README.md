@@ -5,8 +5,10 @@ NPCheck V1.0
 Usage:
 
 [1] OPEN CMD as ADMINISTRATOR:
-	->Key: [WINDOWS] + [R]
-	->powershell "Start-Process cmd -Verb RunAs"
+
+->Key: [WINDOWS] + [R]
+
+->powershell "Start-Process cmd -Verb RunAs"
 
 
 [2] Go to the folder where NPCheck.ps1 is located:
